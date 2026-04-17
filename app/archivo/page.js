@@ -1,0 +1,1 @@
+export default function Page() { return <h1>Archivo</h1> }
